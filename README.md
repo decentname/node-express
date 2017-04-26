@@ -9,3 +9,7 @@ Instructions:        
 1) Clone the repo                                             
 2) RUN cd node-express && npm install                
 3) RUN npm start
+
+Update Packages:    
+1) Run npm install -g npm-check-update    
+2) Run ncu -u 
