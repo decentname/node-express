@@ -11,5 +11,5 @@ Instructions:        
 3) RUN npm start
 
 Update Packages:    
-1) Run npm install -g npm-check-update    
+1) Run npm install -g npm-check-updates    
 2) Run ncu -u 
